@@ -19,6 +19,8 @@ def edits(r, t, m):
 def wer(r, t):
     r_tokens = r.split()
     t_tokens = t.split()
+
+    # Build matrix of 0's
     matrix = numpy.zeros((len(r_tokens) + 1) * (len(t_tokens) + 1))
     matrix = matrix.reshape((len(r_tokens) + 1, len(t_tokens) + 1))
 
