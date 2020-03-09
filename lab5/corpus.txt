@@ -2,7 +2,6 @@
 <s> the cat mat sat on the fat </s>
 <s> a cat mat sat on a fat </s>
 <s> the cat mat sat on a fat </s>
-<s> the cat mat sat on a fat </s>
 <s> a cat mat sat on the fat </s>
 <s> the cat mat sat on the fat </s>
 <s> the fat mat sat on the cat </s>
